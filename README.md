@@ -1,4 +1,4 @@
-![alt=“”](Images/deploying contract.gif)
+![alt=“”](Images/deploying%20contract.gif)
 ![alt=“”](Images/20-5-challenge-image.png)
 
 ### Background
